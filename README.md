@@ -26,7 +26,7 @@ Production-grade microservice providing:
 - Embeddings  
 - Async tasks & pipelines  
 - Rate-limited LLM operations  
-Structured with clean architecture and extendable for OpenAI, Groq, Anthropic, or custom models.
+- Structured with clean architecture and extendable for OpenAI, Groq, Anthropic, or custom models.
 
 👉 Repo: *Pinned on profile*
 
